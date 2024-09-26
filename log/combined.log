@@ -1,0 +1,173 @@
+{"level":"info","message":"Request: POST /auth/register, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T06:52:35.888Z"}
+{"level":"info","message":"Request: POST /auth/register, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T06:53:21.928Z"}
+{"level":"info","message":"Request: POST /auth/register, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T06:53:24.598Z"}
+{"level":"info","message":"Request: POST /auth/register, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T06:53:24.972Z"}
+{"level":"info","message":"Request: POST /auth/register, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T06:53:25.122Z"}
+{"level":"info","message":"Request: POST /auth/register, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T06:54:26.282Z"}
+{"level":"info","message":"Request: POST /auth/register, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T06:54:26.997Z"}
+{"level":"info","message":"Request: POST /auth/register, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T06:54:27.158Z"}
+{"level":"info","message":"Request: POST /auth/register, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T06:54:27.298Z"}
+{"level":"info","message":"Request: POST /auth/register, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T06:54:27.438Z"}
+{"level":"info","message":"Request: POST /auth/register, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T06:54:27.617Z"}
+{"level":"info","message":"Request: POST /auth/register, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T06:54:31.326Z"}
+{"level":"info","message":"Request: POST /auth/register, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T06:57:14.937Z"}
+{"level":"info","message":"Request: POST /auth/register, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T06:58:42.526Z"}
+{"level":"info","message":"Request: POST /auth/register, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T06:58:46.286Z"}
+{"level":"info","message":"Request: POST /auth/register, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T06:58:49.303Z"}
+{"level":"info","message":"Request: POST /auth/register, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T06:58:50.347Z"}
+{"level":"info","message":"Request: POST /auth/register, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T06:58:50.519Z"}
+{"level":"info","message":"Request: POST /auth/register, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T06:59:37.225Z"}
+{"level":"info","message":"Request: POST /auth/register, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T06:59:45.135Z"}
+{"level":"info","message":"Request: POST /auth/register, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T07:00:53.828Z"}
+{"level":"info","message":"Request: POST /auth/register, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T07:01:28.702Z"}
+{"level":"info","message":"Request: POST /auth/register, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T07:01:32.820Z"}
+{"level":"info","message":"Request: POST /auth/register, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T07:01:33.334Z"}
+{"level":"info","message":"Request: POST /auth/register, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T07:01:33.496Z"}
+{"level":"info","message":"Request: POST /auth/register, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T07:01:33.643Z"}
+{"level":"info","message":"Request: POST /auth/register, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T07:01:33.770Z"}
+{"level":"info","message":"Request: POST /auth/register, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T07:01:33.927Z"}
+{"level":"info","message":"Request: POST /auth/register, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T07:02:40.816Z"}
+{"level":"info","message":"Request: POST /auth/register, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T07:04:25.062Z"}
+{"level":"info","message":"Request: POST /auth/signup, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T07:07:22.355Z"}
+{"level":"info","message":"Response: 500, URL: /signup","timestamp":"2024-09-26T07:07:22.393Z"}
+{"level":"info","message":"Request: POST /auth/signup, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T07:09:01.732Z"}
+{"level":"info","message":"Response: 500, URL: /signup","timestamp":"2024-09-26T07:09:01.782Z"}
+{"level":"info","message":"Request: POST /auth/signup, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T07:09:52.977Z"}
+{"level":"info","message":"Response: 500, URL: /signup","timestamp":"2024-09-26T07:09:53.025Z"}
+{"level":"info","message":"Request: POST /auth/signup, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T07:11:13.295Z"}
+{"level":"info","message":"Response: 500, URL: /signup","timestamp":"2024-09-26T07:11:13.329Z"}
+{"level":"info","message":"Request: POST /auth/signup, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T07:11:23.854Z"}
+{"level":"info","message":"Response: 500, URL: /signup","timestamp":"2024-09-26T07:11:23.909Z"}
+{"level":"info","message":"Request: POST /auth/signup, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T07:12:12.771Z"}
+{"level":"info","message":"Response: 500, URL: /signup","timestamp":"2024-09-26T07:12:12.812Z"}
+{"level":"info","message":"Request: POST /auth/signup, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T07:12:14.049Z"}
+{"level":"info","message":"Response: 500, URL: /signup","timestamp":"2024-09-26T07:12:14.092Z"}
+{"level":"info","message":"Request: POST /auth/signup, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T07:12:15.251Z"}
+{"level":"info","message":"Response: 500, URL: /signup","timestamp":"2024-09-26T07:12:15.297Z"}
+{"level":"info","message":"Request: POST /auth/signup, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T07:12:30.159Z"}
+{"level":"info","message":"Response: 500, URL: /signup","timestamp":"2024-09-26T07:12:30.310Z"}
+{"level":"info","message":"Request: POST /auth/signup, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T07:13:45.741Z"}
+{"level":"info","message":"Response: 500, URL: /signup","timestamp":"2024-09-26T07:13:45.867Z"}
+{"level":"info","message":"Request: POST /auth/signup, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T07:13:53.290Z"}
+{"level":"info","message":"Response: 500, URL: /signup","timestamp":"2024-09-26T07:13:53.423Z"}
+{"level":"info","message":"Request: POST /auth/signup, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T07:14:56.099Z"}
+{"level":"info","message":"Response: 201, URL: /signup","timestamp":"2024-09-26T07:14:56.265Z"}
+{"level":"info","message":"Request: POST /auth/register, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T07:22:24.511Z"}
+{"level":"info","message":"Request: POST /auth/signup, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T07:23:36.693Z"}
+{"level":"info","message":"Response: 400, URL: /signup","timestamp":"2024-09-26T07:23:36.737Z"}
+{"level":"info","message":"Request: POST /auth/login, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T07:26:48.388Z"}
+{"level":"info","message":"Response: 200, URL: /login","timestamp":"2024-09-26T07:26:48.566Z"}
+{"level":"info","message":"Request: POST /auth/login, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T07:53:00.295Z"}
+{"level":"info","message":"Request: POST /auth/login, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T07:53:38.030Z"}
+{"level":"info","message":"Request: POST /auth/login, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T07:55:01.978Z"}
+{"level":"info","message":"Request: POST /auth/login, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T07:56:17.459Z"}
+{"level":"info","message":"Response: 401, URL: /login","timestamp":"2024-09-26T07:56:17.508Z"}
+{"level":"info","message":"Request: POST /auth/login, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T07:56:28.644Z"}
+{"level":"info","message":"Request: PUT /auth/update, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T08:25:46.818Z"}
+{"level":"info","message":"Response: 500, URL: /update","timestamp":"2024-09-26T08:25:46.848Z"}
+{"level":"info","message":"Request: PUT /auth/update, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T08:26:42.238Z"}
+{"level":"info","message":"Response: 500, URL: /update","timestamp":"2024-09-26T08:26:42.256Z"}
+{"level":"info","message":"Request: PUT /auth/update, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T08:26:53.127Z"}
+{"level":"info","message":"Response: 400, URL: /update","timestamp":"2024-09-26T08:26:53.133Z"}
+{"level":"info","message":"Request: POST /auth/login, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T08:27:06.927Z"}
+{"level":"info","message":"Request: PUT /auth/update, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T08:28:27.987Z"}
+{"level":"info","message":"Response: 401, URL: /update","timestamp":"2024-09-26T08:28:27.989Z"}
+{"level":"info","message":"Request: PUT /auth/login, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T08:30:45.171Z"}
+{"level":"info","message":"Request: POST /auth/login, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T08:31:06.286Z"}
+{"level":"info","message":"Request: POST /auth/login, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T08:31:17.010Z"}
+{"level":"info","message":"Request: POST /auth/login, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T08:31:26.180Z"}
+{"level":"info","message":"Request: POST /auth/login, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T08:32:15.135Z"}
+{"level":"info","message":"Request: POST /auth/login, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T08:32:40.888Z"}
+{"level":"info","message":"Request: PUT /auth/update, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T08:33:06.117Z"}
+{"level":"info","message":"Response: 401, URL: /update","timestamp":"2024-09-26T08:33:06.121Z"}
+{"level":"info","message":"Request: PUT /auth/update, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T08:33:13.746Z"}
+{"level":"info","message":"Response: 404, URL: /update","timestamp":"2024-09-26T08:33:13.788Z"}
+{"level":"info","message":"Request: PUT /auth/update, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T08:35:51.337Z"}
+{"level":"info","message":"Response: 500, URL: /update","timestamp":"2024-09-26T08:35:51.356Z"}
+{"level":"info","message":"Request: PUT /auth/update, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T08:36:25.705Z"}
+{"level":"info","message":"Response: 404, URL: /update","timestamp":"2024-09-26T08:36:25.751Z"}
+{"level":"info","message":"Request: PUT /auth/update, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T08:36:38.843Z"}
+{"level":"info","message":"Response: 404, URL: /update","timestamp":"2024-09-26T08:36:38.872Z"}
+{"level":"info","message":"Request: PUT /auth/update, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T08:37:01.455Z"}
+{"level":"info","message":"Response: 404, URL: /update","timestamp":"2024-09-26T08:37:01.494Z"}
+{"level":"info","message":"Request: PUT /auth/update, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T08:37:05.770Z"}
+{"level":"info","message":"Response: 404, URL: /update","timestamp":"2024-09-26T08:37:05.804Z"}
+{"level":"info","message":"Request: PUT /auth/update, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T08:37:06.371Z"}
+{"level":"info","message":"Response: 404, URL: /update","timestamp":"2024-09-26T08:37:06.402Z"}
+{"level":"info","message":"Request: PUT /auth/update, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T08:37:06.585Z"}
+{"level":"info","message":"Response: 404, URL: /update","timestamp":"2024-09-26T08:37:06.612Z"}
+{"level":"info","message":"Request: PUT /auth/update, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T08:37:06.746Z"}
+{"level":"info","message":"Response: 404, URL: /update","timestamp":"2024-09-26T08:37:06.784Z"}
+{"level":"info","message":"Request: PUT /auth/update, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T08:37:11.666Z"}
+{"level":"info","message":"Response: 404, URL: /update","timestamp":"2024-09-26T08:37:11.697Z"}
+{"level":"info","message":"Request: PUT /auth/update, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T08:37:12.187Z"}
+{"level":"info","message":"Response: 404, URL: /update","timestamp":"2024-09-26T08:37:12.212Z"}
+{"level":"info","message":"Request: PUT /auth/update, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T08:37:12.383Z"}
+{"level":"info","message":"Response: 404, URL: /update","timestamp":"2024-09-26T08:37:12.412Z"}
+{"level":"info","message":"Request: PUT /auth/update, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T08:37:12.528Z"}
+{"level":"info","message":"Response: 404, URL: /update","timestamp":"2024-09-26T08:37:12.553Z"}
+{"level":"info","message":"Request: PUT /auth/update, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T08:37:12.650Z"}
+{"level":"info","message":"Response: 404, URL: /update","timestamp":"2024-09-26T08:37:12.677Z"}
+{"level":"info","message":"Request: PUT /auth/update, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T08:37:12.829Z"}
+{"level":"info","message":"Response: 404, URL: /update","timestamp":"2024-09-26T08:37:12.857Z"}
+{"level":"info","message":"Request: PUT /auth/update, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T08:37:52.004Z"}
+{"level":"info","message":"Response: 404, URL: /update","timestamp":"2024-09-26T08:37:52.035Z"}
+{"level":"info","message":"Request: PUT /auth/update, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T08:37:52.607Z"}
+{"level":"info","message":"Response: 404, URL: /update","timestamp":"2024-09-26T08:37:52.638Z"}
+{"level":"info","message":"Request: PUT /auth/update, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T08:37:52.766Z"}
+{"level":"info","message":"Response: 404, URL: /update","timestamp":"2024-09-26T08:37:52.800Z"}
+{"level":"info","message":"Request: PUT /auth/update, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T08:37:53.060Z"}
+{"level":"info","message":"Response: 404, URL: /update","timestamp":"2024-09-26T08:37:53.085Z"}
+{"level":"info","message":"Request: PUT /auth/update, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T08:37:57.471Z"}
+{"level":"info","message":"Response: 404, URL: /update","timestamp":"2024-09-26T08:37:57.495Z"}
+{"level":"info","message":"Request: PUT /auth/update, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T08:37:58.278Z"}
+{"level":"info","message":"Response: 404, URL: /update","timestamp":"2024-09-26T08:37:58.305Z"}
+{"level":"info","message":"Request: PUT /auth/update, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T08:37:58.465Z"}
+{"level":"info","message":"Response: 404, URL: /update","timestamp":"2024-09-26T08:37:58.491Z"}
+{"level":"info","message":"Request: PUT /auth/update, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T08:37:58.652Z"}
+{"level":"info","message":"Response: 404, URL: /update","timestamp":"2024-09-26T08:37:58.680Z"}
+{"level":"info","message":"Request: POST /auth/update, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T08:39:06.720Z"}
+{"level":"info","message":"Request: PUT /auth/update, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T08:39:11.240Z"}
+{"level":"info","message":"Response: 404, URL: /update","timestamp":"2024-09-26T08:39:11.285Z"}
+{"level":"info","message":"Request: PUT /auth/update, OS: Other 0.0.0, Browser: Other 0.0.0, IP: ::1","timestamp":"2024-09-26T08:39:39.795Z"}
+{"level":"info","message":"Response: 200, URL: /update","timestamp":"2024-09-26T08:39:39.844Z"}
+{"level":"info","message":"Request: GET /api-doc, OS: Mac OS X 10.15.7, Browser: Chrome 129.0.0, IP: ::1","timestamp":"2024-09-26T16:49:53.724Z"}
+{"level":"info","message":"Request: GET /api/recipe/10, OS: Mac OS X 10.15.7, Browser: Chrome 129.0.0, IP: ::1","timestamp":"2024-09-26T16:52:55.841Z"}
+{"level":"info","message":"Request: GET /api/recipe, OS: Mac OS X 10.15.7, Browser: Chrome 129.0.0, IP: ::1","timestamp":"2024-09-26T17:00:23.737Z"}
+{"level":"info","message":"Request: GET /api/recipe, OS: Mac OS X 10.15.7, Browser: Chrome 129.0.0, IP: ::1","timestamp":"2024-09-26T17:00:27.037Z"}
+{"level":"info","message":"Request: GET /api/recipe, OS: Mac OS X 10.15.7, Browser: Chrome 129.0.0, IP: ::1","timestamp":"2024-09-26T17:01:12.490Z"}
+{"level":"info","message":"Request: GET /api/recipe, OS: Mac OS X 10.15.7, Browser: Chrome 129.0.0, IP: ::1","timestamp":"2024-09-26T17:01:14.648Z"}
+{"level":"info","message":"Request: GET /api/recipe, OS: Mac OS X 10.15.7, Browser: Chrome 129.0.0, IP: ::1","timestamp":"2024-09-26T17:01:15.314Z"}
+{"level":"info","message":"Request: GET /api/recipe, OS: Mac OS X 10.15.7, Browser: Chrome 129.0.0, IP: ::1","timestamp":"2024-09-26T17:01:15.810Z"}
+{"level":"info","message":"Request: GET /api/recipe, OS: Mac OS X 10.15.7, Browser: Chrome 129.0.0, IP: ::1","timestamp":"2024-09-26T17:01:15.982Z"}
+{"level":"info","message":"Request: GET /api/recipe, OS: Mac OS X 10.15.7, Browser: Chrome 129.0.0, IP: ::1","timestamp":"2024-09-26T17:01:16.153Z"}
+{"level":"info","message":"Request: GET /recipe, OS: Mac OS X 10.15.7, Browser: Chrome 129.0.0, IP: ::1","timestamp":"2024-09-26T17:01:43.614Z"}
+{"level":"info","message":"Request: GET /recipe, OS: Mac OS X 10.15.7, Browser: Chrome 129.0.0, IP: ::1","timestamp":"2024-09-26T17:03:00.350Z"}
+{"level":"info","message":"Request: GET /recipe, OS: Mac OS X 10.15.7, Browser: Chrome 129.0.0, IP: ::1","timestamp":"2024-09-26T17:03:34.705Z"}
+{"level":"info","message":"Request: GET /recipe, OS: Mac OS X 10.15.7, Browser: Chrome 129.0.0, IP: ::1","timestamp":"2024-09-26T17:03:35.383Z"}
+{"level":"info","message":"Request: GET /recipe, OS: Mac OS X 10.15.7, Browser: Chrome 129.0.0, IP: ::1","timestamp":"2024-09-26T17:03:36.662Z"}
+{"level":"info","message":"Request: GET /recipe, OS: Mac OS X 10.15.7, Browser: Chrome 129.0.0, IP: ::1","timestamp":"2024-09-26T17:03:42.905Z"}
+{"level":"info","message":"Response: 200, URL: /recipe","timestamp":"2024-09-26T17:03:42.936Z"}
+{"level":"info","message":"Request: GET /favicon.ico, OS: Mac OS X 10.15.7, Browser: Chrome 129.0.0, IP: ::1","timestamp":"2024-09-26T17:03:43.069Z"}
+{"level":"info","message":"Request: GET /recipe, OS: Mac OS X 10.15.7, Browser: Chrome 129.0.0, IP: ::1","timestamp":"2024-09-26T17:03:44.834Z"}
+{"level":"info","message":"Response: 200, URL: /recipe","timestamp":"2024-09-26T17:03:44.859Z"}
+{"level":"info","message":"Request: GET /recipe, OS: Mac OS X 10.15.7, Browser: Chrome 129.0.0, IP: ::1","timestamp":"2024-09-26T17:04:34.909Z"}
+{"level":"info","message":"Response: 200, URL: /recipe","timestamp":"2024-09-26T17:04:34.941Z"}
+{"level":"info","message":"Request: GET /purchase, OS: Mac OS X 10.15.7, Browser: Chrome 129.0.0, IP: ::1","timestamp":"2024-09-26T17:04:39.297Z"}
+{"level":"info","message":"Request: GET /purchase, OS: Mac OS X 10.15.7, Browser: Chrome 129.0.0, IP: ::1","timestamp":"2024-09-26T17:04:52.914Z"}
+{"level":"info","message":"Request: GET /purchase, OS: Mac OS X 10.15.7, Browser: Chrome 129.0.0, IP: ::1","timestamp":"2024-09-26T17:05:50.024Z"}
+{"level":"info","message":"Response: 401, URL: /purchase","timestamp":"2024-09-26T17:05:50.031Z"}
+{"level":"info","message":"Request: GET /recipe, OS: Mac OS X 10.15.7, Browser: Chrome 129.0.0, IP: ::1","timestamp":"2024-09-26T17:06:57.786Z"}
+{"level":"info","message":"Response: 401, URL: /recipe","timestamp":"2024-09-26T17:06:57.788Z"}
+{"level":"info","message":"Request: GET /recipe, OS: Mac OS X 10.15.7, Browser: Chrome 129.0.0, IP: ::1","timestamp":"2024-09-26T17:06:59.677Z"}
+{"level":"info","message":"Response: 401, URL: /recipe","timestamp":"2024-09-26T17:06:59.678Z"}
+{"level":"info","message":"Request: POST /recipe, OS: Mac OS X 10.15.7, Browser: Chrome 129.0.0, IP: ::1","timestamp":"2024-09-26T17:08:53.889Z"}
+{"level":"info","message":"Response: 400, URL: /recipe","timestamp":"2024-09-26T17:08:53.902Z"}
+{"level":"info","message":"Request: GET /recipe, OS: Mac OS X 10.15.7, Browser: Chrome 129.0.0, IP: ::1","timestamp":"2024-09-26T17:08:56.839Z"}
+{"level":"info","message":"Response: 200, URL: /recipe","timestamp":"2024-09-26T17:08:56.876Z"}
+{"level":"info","message":"Request: GET /recipe, OS: Mac OS X 10.15.7, Browser: Chrome 129.0.0, IP: ::1","timestamp":"2024-09-26T17:09:07.317Z"}
+{"level":"info","message":"Response: 200, URL: /recipe","timestamp":"2024-09-26T17:09:07.348Z"}
+{"level":"info","message":"Request: GET /recipe, OS: Mac OS X 10.15.7, Browser: Chrome 129.0.0, IP: ::1","timestamp":"2024-09-26T17:27:30.604Z"}
+{"level":"info","message":"Response: 200, URL: /recipe","timestamp":"2024-09-26T17:27:30.649Z"}
+{"level":"info","message":"Request: GET /item, OS: Mac OS X 10.15.7, Browser: Chrome 129.0.0, IP: ::1","timestamp":"2024-09-26T17:27:48.220Z"}
+{"level":"info","message":"Response: 200, URL: /item","timestamp":"2024-09-26T17:27:48.245Z"}
