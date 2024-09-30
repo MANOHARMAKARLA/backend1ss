@@ -1,5 +1,7 @@
 // models/User.js
 
+// models/User.js
+
 const mongoose = require('mongoose');
 
 const userSchema = new mongoose.Schema({
@@ -23,7 +25,7 @@ const userSchema = new mongoose.Schema({
     },
     cart: [{
         recipeId: { type: mongoose.Schema.Types.ObjectId, ref: 'Recipe', required: true },
-        // Removed quantity since you specified you don't want it
+        
     }],
     purchasedRecipes: [{
         recipeId: { type: mongoose.Schema.Types.ObjectId, ref: 'Recipe', required: true },
@@ -38,3 +40,4 @@ const userSchema = new mongoose.Schema({
 
 const User = mongoose.models.User || mongoose.model('User', userSchema);
 module.exports = User;
+

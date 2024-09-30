@@ -1,6 +1,6 @@
 // controllers/cartController.js
 
-const User = require('../models/User'); // Import the User model
+const User = require('../models/user'); // Import the User model
 const Recipe = require('../models/Recipe'); // Import the Recipe model
 
 // Add a recipe to the cart

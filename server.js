@@ -6,7 +6,7 @@ const purchaseRoutes = require('./routes/purchase')// Import recipe routes
 const dotenv = require('dotenv'); // For loading environment variables
 const { requestLogger, responseLogger } = require('./log/logger'); // Import logger
 const { verifyToken } = require('./controllers/authMiddleware'); // Middleware for JWT authentication
-const itemRoutes = require('./routes/itemRoutes'); // Import the routes
+const ingredient = require('./routes/ingredientRoutes'); // Import the routes
 dotenv.config(); // Load variables from .env file
 const setupSwagger = require('./swagger');
 connectDB(); // Connect to MongoDB
@@ -25,7 +25,7 @@ app.use(responseLogger); // Log response information
 
 
 app.use('/Auth', authRoutes); // Auth routes
-app.use('/', itemRoutes);
+app.use('/', ingredient);
 app.use('/', purchaseRoutes);
 app.use('/', recipeRoutes);
 // Server port

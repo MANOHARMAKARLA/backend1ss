@@ -1,5 +1,3 @@
-// routes/recipe.js
-
 const express = require('express');
 const {
     getAllRecipes,
@@ -75,6 +73,8 @@ router.get('/recipe/:recipe_id', getRecipeById);
  *           schema:
  *             type: object
  *             properties:
+ *               recipeId:
+ *                 type: number
  *               recipeName:
  *                 type: string
  *               ingredients:
@@ -83,8 +83,12 @@ router.get('/recipe/:recipe_id', getRecipeById);
  *                   type: string
  *               instructions:
  *                 type: string
+ *               cost:
+ *                 type: number
+ *               totalCookingTime:
+ *                 type: number
  *     responses:
- *       200:
+ *       201:
  *         description: The created recipe object
  *       400:
  *         description: Bad request
@@ -119,6 +123,10 @@ router.post('/recipe', addRecipe);
  *                   type: string
  *               instructions:
  *                 type: string
+ *               cost:
+ *                 type: number
+ *               totalCookingTime:
+ *                 type: number
  *     responses:
  *       200:
  *         description: The updated recipe object

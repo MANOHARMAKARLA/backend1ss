@@ -1,4 +1,4 @@
-const User = require('../models/User'); // Importing the User model
+const User = require('../models/user'); // Importing the User model
 const bcrypt = require('bcryptjs'); // For hashing passwords
 const jwt = require('jsonwebtoken'); // For JWT token generation
 const { sendRegistrationSuccessEmail, sendOtpEmail } = require('../services/emailService'); // To send emails
