@@ -1,7 +1,9 @@
-// swagger.js
-
 const swaggerJsDoc = require('swagger-jsdoc');
 const swaggerUi = require('swagger-ui-express');
+
+// Get the server URL and port dynamically from environment variables
+const serverUrl = process.env.SERVER_URL || 'http://localhost';
+const serverPort = process.env.PORT || 3005;
 
 const swaggerOptions = {
     swaggerDefinition: {
@@ -13,7 +15,7 @@ const swaggerOptions = {
         },
         servers: [
             {
-                url: 'http://localhost:3005/', // Base URL for the API
+                url: `${serverUrl}:${serverPort}/`, // Dynamically set the base URL for the API
             },
         ],
     },

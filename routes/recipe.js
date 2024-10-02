@@ -32,6 +32,12 @@ const router = express.Router();
  *     responses:
  *       200:
  *         description: A list of recipes
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: array
+ *               items:
+ *                 $ref: '#/components/schemas/Recipe'
  *       500:
  *         description: Internal server error
  */
@@ -53,6 +59,10 @@ router.get('/recipe', getAllRecipes);
  *     responses:
  *       200:
  *         description: The recipe object
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/Recipe'
  *       404:
  *         description: Recipe not found
  *       500:
@@ -71,25 +81,14 @@ router.get('/recipe/:recipe_id', getRecipeById);
  *       content:
  *         application/json:
  *           schema:
- *             type: object
- *             properties:
- *               recipeId:
- *                 type: number
- *               recipeName:
- *                 type: string
- *               ingredients:
- *                 type: array
- *                 items:
- *                   type: string
- *               instructions:
- *                 type: string
- *               cost:
- *                 type: number
- *               totalCookingTime:
- *                 type: number
+ *             $ref: '#/components/schemas/Recipe'
  *     responses:
  *       201:
  *         description: The created recipe object
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/Recipe'
  *       400:
  *         description: Bad request
  */
@@ -113,23 +112,14 @@ router.post('/recipe', addRecipe);
  *       content:
  *         application/json:
  *           schema:
- *             type: object
- *             properties:
- *               recipeName:
- *                 type: string
- *               ingredients:
- *                 type: array
- *                 items:
- *                   type: string
- *               instructions:
- *                 type: string
- *               cost:
- *                 type: number
- *               totalCookingTime:
- *                 type: number
+ *             $ref: '#/components/schemas/Recipe'
  *     responses:
  *       200:
  *         description: The updated recipe object
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/Recipe'
  *       404:
  *         description: Recipe not found
  *       400:
@@ -176,6 +166,12 @@ router.delete('/recipe/:recipe_id', deleteRecipe);
  *     responses:
  *       200:
  *         description: A list of matching recipes
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: array
+ *               items:
+ *                 $ref: '#/components/schemas/Recipe'
  *       500:
  *         description: Internal server error
  */
@@ -197,6 +193,10 @@ router.get('/recipe/search', searchRecipes);
  *     responses:
  *       200:
  *         description: A list of ingredients
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/Recipe'
  *       404:
  *         description: Recipe not found
  *       500:
@@ -231,6 +231,10 @@ router.get('/recipe/:recipe_id/ingredient', getRecipeIngredients);
  *     responses:
  *       200:
  *         description: The updated ingredients
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/Recipe'
  *       404:
  *         description: Recipe not found
  *       400:
@@ -254,6 +258,10 @@ router.put('/recipe/:recipe_id/ingredient', updateRecipeIngredients);
  *     responses:
  *       200:
  *         description: The instructions of the recipe
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/Recipe'
  *       404:
  *         description: Recipe not found
  *       500:
@@ -282,10 +290,27 @@ router.get('/recipe/:recipe_id/instruction', getRecipeInstructions);
  *             type: object
  *             properties:
  *               instructions:
- *                 type: string
+ *                 type: array
+ *                 items:
+ *                   type: object
+ *                   properties:
+ *                     cmd:
+ *                       type: string
+ *                     value:
+ *                       type: array
+ *                       items:
+ *                         type: number
+ *                     unit:
+ *                       type: string
+ *                     text:
+ *                       type: string
  *     responses:
  *       200:
  *         description: The updated instructions
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/Recipe'
  *       404:
  *         description: Recipe not found
  *       400:
@@ -338,14 +363,80 @@ router.get('/recipe/:recipe_id/image', getRecipeImage);
  *             properties:
  *               image:
  *                 type: string
+ *                 format: binary
  *     responses:
  *       200:
- *         description: The updated recipe image
+ *         description: The updated image
  *       404:
  *         description: Recipe not found
  *       400:
  *         description: Bad request
  */
 router.put('/recipe/:recipe_id/image', updateRecipeImage);
+
+/**
+ * @swagger
+ * components:
+ *   schemas:
+ *     Recipe:
+ *       type: object
+ *       required:
+ *         - recipe_id
+ *         - recipe_name
+ *         - description
+ *         - time
+ *         - cuisine_type
+ *         - allergens
+ *         - cost
+ *       properties:
+ *         recipe_id:
+ *           type: string
+ *           description: The recipe ID
+ *         recipe_name:
+ *           type: string
+ *           description: The name of the recipe
+ *         description:
+ *           type: string
+ *           description: A description of the recipe
+ *         time:
+ *           type: number
+ *           description: The preparation time in minutes
+ *         cuisine_type:
+ *           type: string
+ *           description: The type of cuisine
+ *         allergens:
+ *           type: array
+ *           items:
+ *             type: string
+ *           description: Any allergens present in the recipe
+ *         cost:
+ *           type: number
+ *           description: The cost of the recipe
+ *         image:
+ *           type: string
+ *           format: binary
+ *           description: The image of the recipe
+ *         ingredients:
+ *           type: array
+ *           items:
+ *             type: string
+ *           description: List of ingredients
+ *         instructions:
+ *           type: array
+ *           items:
+ *             type: object
+ *             properties:
+ *               cmd:
+ *                 type: string
+ *               value:
+ *                 type: array
+ *                 items:
+ *                   type: number
+ *               unit:
+ *                 type: string
+ *               text:
+ *                 type: string
+ *           description: List of instructions
+ */
 
 module.exports = router;
