@@ -10,9 +10,10 @@ const ingredient = require('./routes/ingredientRoutes'); // Import the routes
 dotenv.config(); // Load variables from .env file
 const setupSwagger = require('./swagger');
 connectDB(); // Connect to MongoDB
-
+const path = require('path');
 const app = express();
-
+// Serve static files from the 'public' folder
+app.use(express.static(path.join(__dirname, 'public')));
 app.use(express.json()); // Middleware to parse JSON request bodies
 setupSwagger(app);
 // Use logging middlewares
@@ -21,6 +22,9 @@ app.use(responseLogger); // Log response information
 
 // Routes
 
+app.get('/', (req, res) => {
+    res.sendFile(path.join(__dirname, 'public', 'index.html'));
+});
 
 
 

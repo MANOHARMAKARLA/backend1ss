@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Main Screen</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh; /* Full viewport height */
+            margin: 0;
+            background-color: #000;
+            color: white;
+        }
+        h1 {
+            color: #fff;
+        }
+        p {
+            font-size: 18px;
+            color: #ccc;
+        }
+        .button {
+            padding: 10px 20px;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            margin-top: 20px;
+        }
+        .button:hover {
+            background-color: #0056b3;
+        }
+        img {
+            max-width: 250px; /* Enlarged the logo */
+            margin-bottom: 20px;
+        }
+        .container {
+            text-align: center;
+        }
+        @media (max-width: 600px) {
+            img {
+                max-width: 180px; /* Smaller logo for mobile devices */
+            }
+            .button {
+                font-size: 14px; /* Smaller button for mobile */
+            }
+            p {
+                font-size: 16px; /* Adjusted font size for mobile */
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="https://letsmome.com/black%20theme.png" alt="Mome Logo">
+        <h1>Welcome to Mome API's</h1>
+        <p>This is the main screen of your application.</p>
+        <button class="button" onclick="location.href='/api-docs'">Go to API Documentation</button>
+    </div>
+</body>
+</html>
